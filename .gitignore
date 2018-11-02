@@ -135,3 +135,8 @@ typings/
 # Serverless directories
 .serverless
 
+.idea/JDQian.iml
+.idea/inspectionProfiles/
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
